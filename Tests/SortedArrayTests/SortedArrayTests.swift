@@ -205,6 +205,7 @@ extension SortedArrayTests {
             ("testRemoveAtBeginningPreservesSortOrder", testRemoveAtBeginningPreservesSortOrder),
             ("testRemoveInMiddlePreservesSortOrder", testRemoveInMiddlePreservesSortOrder),
             ("testRemoveAtEndPreservesSortOrder", testRemoveAtEndPreservesSortOrder),
+            ("testFilter", testFilter),
         ]
     }
 }
